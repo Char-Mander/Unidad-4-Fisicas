@@ -1,14 +1,41 @@
 ﻿<Properties StartupConfiguration="{B2772742-B55D-013E-8796-AED5CC4AD099}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/Forces.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameAssets/Scripts/EjercicioSkynet/BombaMoab.cs">
     <Files>
-      <File FileName="Assets/InitializeFolders.cs" Line="1" Column="1" />
-      <File FileName="Assets/GameAssets/Scripts/MovimientoFisico.cs" Line="33" Column="49" />
-      <File FileName="Assets/GameAssets/Scripts/Forces.cs" Line="21" Column="51" />
+      <File FileName="Assets/GameAssets/Scripts/EjercicioSkynet/MovimientoImpulsionInversa.cs" Line="6" Column="2" />
+      <File FileName="Assets/GameAssets/Scripts/Forces.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameAssets/Scripts/EjercicioSkynet/EstabilizadorSubatomicoPro.cs" Line="40" Column="1" />
+      <File FileName="Assets/GameAssets/Scripts/EjercicioSkynet/TitanioEscaner.cs" Line="70" Column="17" />
+      <File FileName="Assets/GameAssets/Scripts/EjercicioSkynet/BombaMoab.cs" Line="41" Column="76" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unidad 4 Físicas" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="GameAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="EjercicioSkynet" expanded="True">
+                    <Node name="BombaMoab.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unidad 4 Físicas" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8642537e-2fa8-4581-af35-6cc5f14703db" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="97083d30-dbcc-4b4a-a482-2aba0e83cbb5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

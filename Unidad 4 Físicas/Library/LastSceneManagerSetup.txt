@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/GameAssets/Scenes/Fi\u0301sicas interaccio\u0301n rozamiento.unity"
+- path: Assets/GameAssets/Scenes/Raycasts.unity
   isLoaded: 1
   isActive: 1

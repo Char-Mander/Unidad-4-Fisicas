@@ -63,9 +63,42 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameAssets\Scripts\Ejercicio Cañón\Bullet.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\Ejercicio Cañón\Canon.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\EjercicioSkynet\BombaMoab.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\EjercicioSkynet\EstabilizadorSubatomicoPro.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\EjercicioSkynet\MovimientoImpulsionInversa.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\EjercicioSkynet\TitanioEscaner.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\Explosion.cs" />
     <Compile Include="Assets\GameAssets\Scripts\Forces.cs" />
     <Compile Include="Assets\GameAssets\Scripts\MovimientoFisico.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\Torsiones.cs" />
+    <Compile Include="Assets\GameAssets\Scripts\Trap.cs" />
     <Compile Include="Assets\InitializeFolders.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+    <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+    <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+    <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
+    <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
+    <Reference Include="Unity.ProBuilder">
+      <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.Editor">
+      <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
+      <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -74,6 +107,9 @@
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProBuilder.AddOns.Editor">
+      <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>/Volumes/DATOS/Laura_CICE_2019-2020/Unidad 4 Físicas/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
